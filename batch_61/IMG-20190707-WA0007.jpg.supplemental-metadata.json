@@ -1,0 +1,29 @@
+{
+  "title": "IMG-20190707-WA0007.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1562523005",
+    "formatted": "Jul 7, 2019, 6:10:05 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1562515797",
+    "formatted": "Jul 7, 2019, 4:09:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNG4o7D3r8KZQ-W_rPuK-DvN_SQ90nGDzVkfstr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

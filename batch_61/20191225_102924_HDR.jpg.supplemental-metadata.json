@@ -1,0 +1,29 @@
+{
+  "title": "20191225_102924_HDR.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1577695745",
+    "formatted": "Dec 30, 2019, 8:49:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577249964",
+    "formatted": "Dec 25, 2019, 4:59:24 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMFrfFrd8xxBLx5PzBvm9kggZEbYMb-xZYf3JOt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

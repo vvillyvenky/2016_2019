@@ -1,0 +1,29 @@
+{
+  "title": "20191230_172103.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1577956806",
+    "formatted": "Jan 2, 2020, 9:20:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577706663",
+    "formatted": "Dec 30, 2019, 11:51:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOAFtm2W1KGBWEXSf7ous57LY-qdp-bf-1EnMal",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

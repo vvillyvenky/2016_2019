@@ -1,0 +1,29 @@
+{
+  "title": "20191228_151244.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1577695745",
+    "formatted": "Dec 30, 2019, 8:49:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577526164",
+    "formatted": "Dec 28, 2019, 9:42:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO4HwzLkqzaQFOQYLobGUKAXSiCcGUQf6fYc8Aq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

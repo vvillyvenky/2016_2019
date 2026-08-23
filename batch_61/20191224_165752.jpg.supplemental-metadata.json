@@ -1,0 +1,29 @@
+{
+  "title": "20191224_165752.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1577695710",
+    "formatted": "Dec 30, 2019, 8:48:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577186872",
+    "formatted": "Dec 24, 2019, 11:27:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNXHYX4_FHKpazAlT8O9JbWEqlFK-JMqCFvRkVN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
