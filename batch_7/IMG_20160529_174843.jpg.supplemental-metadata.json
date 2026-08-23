@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160529_174843.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1464578427",
+    "formatted": "May 30, 2016, 3:20:27 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1464569324",
+    "formatted": "May 30, 2016, 12:48:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 44.1607139,
+    "longitude": -124.11765000000001,
+    "altitude": -13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 44.1607139,
+    "longitude": -124.11765000000001,
+    "altitude": -13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP6qn8NTWW0Ddoeg1pGZIFk8-B7nOZDYmxOAi6M",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

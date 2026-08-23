@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160530_121645.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1464656493",
+    "formatted": "May 31, 2016, 1:01:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1464635806",
+    "formatted": "May 30, 2016, 7:16:46 PM UTC"
+  },
+  "geoData": {
+    "latitude": 44.2796806,
+    "longitude": -124.1121722,
+    "altitude": -17.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 44.2796806,
+    "longitude": -124.1121722,
+    "altitude": -17.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM7Dp5JlIChsfxSOg0a0hlrrjw1GmtLNHMB7wIU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
