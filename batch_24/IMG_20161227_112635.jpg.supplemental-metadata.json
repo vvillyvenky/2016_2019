@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20161227_112635.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1483056825",
+    "formatted": "Dec 30, 2016, 12:13:45 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1482866795",
+    "formatted": "Dec 27, 2016, 7:26:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 36.2312,
+    "longitude": -116.77637219999998,
+    "altitude": -119.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.2312,
+    "longitude": -116.77637219999998,
+    "altitude": -119.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMgFARpTYHJABtGoT5kzy3rCbcsFhb6xecY-UQb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
