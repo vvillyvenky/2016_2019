@@ -1,0 +1,29 @@
+{
+  "title": "20190901_110752.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1567489385",
+    "formatted": "Sep 3, 2019, 5:43:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1567316272",
+    "formatted": "Sep 1, 2019, 5:37:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP62U8lHYofxWb-LPNKoLiUeqdI34ndoM3lsN9R",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20190815_170534.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1566810114",
+    "formatted": "Aug 26, 2019, 9:01:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1565868934",
+    "formatted": "Aug 15, 2019, 11:35:34 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNK42vLVDnvMHRCrW4lWdKj_4WlBqX3XskRuhmx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

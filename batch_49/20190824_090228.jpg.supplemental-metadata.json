@@ -1,0 +1,29 @@
+{
+  "title": "20190824_090228.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1566810162",
+    "formatted": "Aug 26, 2019, 9:02:42 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1566617548",
+    "formatted": "Aug 24, 2019, 3:32:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNm5NnVvzBkZtjTND0Xg-usXdK0iU08U-xQKnNW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

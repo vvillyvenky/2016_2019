@@ -1,0 +1,29 @@
+{
+  "title": "20190823_081938_HDR.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1566810158",
+    "formatted": "Aug 26, 2019, 9:02:38 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1566528578",
+    "formatted": "Aug 23, 2019, 2:49:38 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM-DNAc3YRrA3X3Miw8oZ3dVj9prvZsx4DDNhzG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

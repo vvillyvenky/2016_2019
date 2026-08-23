@@ -1,0 +1,29 @@
+{
+  "title": "20190818_121341.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1566810126",
+    "formatted": "Aug 26, 2019, 9:02:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1566110621",
+    "formatted": "Aug 18, 2019, 6:43:41 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOgHReEInKtL485pE6WU1KMNzzJbNdpEGjWEyQs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

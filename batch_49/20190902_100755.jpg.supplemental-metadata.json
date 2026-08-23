@@ -1,0 +1,29 @@
+{
+  "title": "20190902_100755.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1567489389",
+    "formatted": "Sep 3, 2019, 5:43:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1567399074",
+    "formatted": "Sep 2, 2019, 4:37:54 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNacaXayPoSIFBH4lYUMGjcPTxaj6nIhZHHsA6j",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

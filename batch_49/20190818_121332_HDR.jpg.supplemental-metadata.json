@@ -1,0 +1,29 @@
+{
+  "title": "20190818_121332_HDR.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1566810122",
+    "formatted": "Aug 26, 2019, 9:02:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1566110612",
+    "formatted": "Aug 18, 2019, 6:43:32 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNSjLB88GIp189t8d1JLu_y0l70Lq2hrvsHV5ip",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
