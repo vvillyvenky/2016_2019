@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160710_153923.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1468208409",
+    "formatted": "Jul 11, 2016, 3:40:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468190364",
+    "formatted": "Jul 10, 2016, 10:39:24 PM UTC"
+  },
+  "geoData": {
+    "latitude": 46.2774583,
+    "longitude": -122.21630560000001,
+    "altitude": 1259.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 46.2774583,
+    "longitude": -122.21630560000001,
+    "altitude": 1259.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNmvrHJgev6MojUwgxmpqMiah85835h9pUEAyQz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
