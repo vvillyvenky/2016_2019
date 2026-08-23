@@ -1,0 +1,29 @@
+{
+  "title": "20190124_084334.jpg",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1548675101",
+    "formatted": "Jan 28, 2019, 11:31:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1548299614",
+    "formatted": "Jan 24, 2019, 3:13:34 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOXigWaMUIcrGbBtOMtBHS6pZeCsmHzFOlc7rTJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

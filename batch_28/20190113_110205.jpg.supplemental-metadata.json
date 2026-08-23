@@ -1,0 +1,29 @@
+{
+  "title": "20190113_110205.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1548675063",
+    "formatted": "Jan 28, 2019, 11:31:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1547357525",
+    "formatted": "Jan 13, 2019, 5:32:05 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOgcnRxW0ZZu2EQzNp8XYg3Sjx6d3IYVq2JaJgk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

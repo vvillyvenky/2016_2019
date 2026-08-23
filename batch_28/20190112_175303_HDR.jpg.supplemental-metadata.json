@@ -1,0 +1,29 @@
+{
+  "title": "20190112_175303_HDR.jpg",
+  "description": "",
+  "imageViews": "39",
+  "creationTime": {
+    "timestamp": "1548675043",
+    "formatted": "Jan 28, 2019, 11:30:43 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1547295783",
+    "formatted": "Jan 12, 2019, 12:23:03 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMgzcvT0n1gNKzpiOZpk-yJn781QpsSx5XuaR3p",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

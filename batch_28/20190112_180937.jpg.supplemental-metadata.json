@@ -1,0 +1,29 @@
+{
+  "title": "20190112_180937.jpg",
+  "description": "",
+  "imageViews": "50",
+  "creationTime": {
+    "timestamp": "1548675055",
+    "formatted": "Jan 28, 2019, 11:30:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1547296777",
+    "formatted": "Jan 12, 2019, 12:39:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOWxL2rLe-HcWxCoOP_4y_DZSOA_XT5d3NFp9m3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

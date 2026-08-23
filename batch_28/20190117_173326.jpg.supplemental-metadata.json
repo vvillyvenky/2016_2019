@@ -1,0 +1,29 @@
+{
+  "title": "20190117_173326.jpg",
+  "description": "",
+  "imageViews": "34",
+  "creationTime": {
+    "timestamp": "1548675084",
+    "formatted": "Jan 28, 2019, 11:31:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1547726606",
+    "formatted": "Jan 17, 2019, 12:03:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPr_RQDEu3dgnUFtPMcem8KjMS1ZHdA34Kc0crp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
