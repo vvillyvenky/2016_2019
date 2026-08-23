@@ -1,0 +1,29 @@
+{
+  "title": "20190427_204727.jpg",
+  "description": "",
+  "imageViews": "34",
+  "creationTime": {
+    "timestamp": "1556518000",
+    "formatted": "Apr 29, 2019, 6:06:40 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556378247",
+    "formatted": "Apr 27, 2019, 3:17:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMCNgUemBreMYpd77QZapOTx0UV1mONzKfEq4Ej",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
