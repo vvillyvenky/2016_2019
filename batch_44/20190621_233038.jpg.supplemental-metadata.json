@@ -1,0 +1,29 @@
+{
+  "title": "20190621_233038.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1562151345",
+    "formatted": "Jul 3, 2019, 10:55:45 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561140038",
+    "formatted": "Jun 21, 2019, 6:00:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN0b_k_rMDzKel1ylCpGqmX4c78kpy0KC2TbSld",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

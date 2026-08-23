@@ -1,0 +1,29 @@
+{
+  "title": "20190609_165935.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1560166284",
+    "formatted": "Jun 10, 2019, 11:31:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1560079775",
+    "formatted": "Jun 9, 2019, 11:29:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMyUo8aTvKhDtugOYyUl3phHmCyKA-8RW3Coqxy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
