@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160428_181225.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1463626762",
+    "formatted": "May 19, 2016, 2:59:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1461892347",
+    "formatted": "Apr 29, 2016, 1:12:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5364528,
+    "longitude": -122.8507278,
+    "altitude": 68.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5364528,
+    "longitude": -122.8507278,
+    "altitude": 68.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMXuFh0-GZtYBbS_UueM9j0d348dxeyHJcfwt4z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

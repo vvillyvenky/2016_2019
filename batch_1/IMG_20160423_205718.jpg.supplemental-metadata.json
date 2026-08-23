@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160423_205718.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1463626688",
+    "formatted": "May 19, 2016, 2:58:08 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1461470240",
+    "formatted": "Apr 24, 2016, 3:57:20 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5340972,
+    "longitude": -122.89571389999999,
+    "altitude": 30.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5340972,
+    "longitude": -122.89571389999999,
+    "altitude": 30.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNsdN5hPSOg2-utlV43l2epMldroaL7LHMey-fc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

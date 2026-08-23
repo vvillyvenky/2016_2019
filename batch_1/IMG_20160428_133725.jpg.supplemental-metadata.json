@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160428_133725.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1463626710",
+    "formatted": "May 19, 2016, 2:58:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1461875847",
+    "formatted": "Apr 28, 2016, 8:37:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5461278,
+    "longitude": -122.9113444,
+    "altitude": 43.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5461278,
+    "longitude": -122.9113444,
+    "altitude": 43.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMLDUwept5wv58HYDHkvyXFo3gDH70jFdD4cEmn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

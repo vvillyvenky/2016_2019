@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160422_200222.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1463626665",
+    "formatted": "May 19, 2016, 2:57:45 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1461380543",
+    "formatted": "Apr 23, 2016, 3:02:23 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321417,
+    "longitude": -122.87465559999998,
+    "altitude": 68.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321417,
+    "longitude": -122.87465559999998,
+    "altitude": 68.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPlPsgAxyYH03Lco_XM9VLb3nnUaO9Qhb7YteyM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

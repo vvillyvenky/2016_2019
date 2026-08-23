@@ -1,0 +1,44 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 50F5-60FE
+
+ Directory of C:\google_photos_merged\Google Photos\2016_2019
+
+23-08-2026  18:24    <DIR>          .
+16-08-2026  22:59    <DIR>          ..
+16-08-2026  22:11    <DIR>          2016
+16-08-2026  22:21    <DIR>          2019
+23-08-2026  18:24                 0 dir.txt
+               1 File(s)              0 bytes
+
+ Directory of C:\google_photos_merged\Google Photos\2016_2019\2016
+
+16-08-2026  22:11    <DIR>          .
+23-08-2026  18:24    <DIR>          ..
+23-07-2025  09:14         1,243,612 IMG_20160408_142823.jpg
+23-07-2025  09:14               847 IMG_20160408_142823.jpg.supplemental-metadata.json
+23-07-2025  09:14         2,554,455 IMG_20160422_200222.jpg
+23-07-2025  09:14               864 IMG_20160422_200222.jpg.supplemental-metadata.json
+23-07-2025  09:14         1,215,948 IMG_20160423_141244.jpg
+23-07-2025  09:14               866 IMG_20160423_141244.jpg.supplemental-metadata.json
+23-07-2025  09:14         1,327,939 IMG_20160423_141303.jpg
+....
+..
+            1623 File(s)  1,510,224,116 bytes
+
+ Directory of C:\google_photos_merged\Google Photos\2016_2019\2019
+
+16-08-2026  22:21    <DIR>          .
+23-08-2026  18:24    <DIR>          ..
+23-07-2025  16:01         1,070,648 20190101_172719.jpg
+23-07-2025  16:01               675 20190101_172719.jpg.supplemental-metadata.json
+23-07-2025  16:01           579,459 20190101_172737.jpg
+23-07-2025  16:01               675 20190101_172737.jpg.supplemental-metadata.json
+23-07-2025  16:01           639,142 20190101_172739.jpg
+...
+...
+23-07-2025  09:15               675 IMG-20190707-WA0007.jpg.supplemental-metadata.json
+            2272 File(s)  1,611,633,852 bytes
+
+     Total Files Listed:
+            3896 File(s)  3,121,857,968 bytes
+               8 Dir(s)  302,261,465,088 bytes free
