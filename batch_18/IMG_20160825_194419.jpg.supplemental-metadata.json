@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160825_194419.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1472185819",
+    "formatted": "Aug 26, 2016, 4:30:19 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1472179460",
+    "formatted": "Aug 26, 2016, 2:44:20 AM UTC"
+  },
+  "geoData": {
+    "latitude": 44.0355889,
+    "longitude": -124.1321556,
+    "altitude": -13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 44.0355889,
+    "longitude": -124.1321556,
+    "altitude": -13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNhrxKm6IwOJi9wOGsOflXYPP8lrKtdAhGIOEvG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

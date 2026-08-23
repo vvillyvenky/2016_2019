@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160825_200319.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1472185855",
+    "formatted": "Aug 26, 2016, 4:30:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1472180601",
+    "formatted": "Aug 26, 2016, 3:03:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 44.0353944,
+    "longitude": -124.13494999999999,
+    "altitude": -19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 44.0353944,
+    "longitude": -124.13494999999999,
+    "altitude": -19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOrUOCXVmsriZHU97ojPoTbai7lAIcJXzBj7Krt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

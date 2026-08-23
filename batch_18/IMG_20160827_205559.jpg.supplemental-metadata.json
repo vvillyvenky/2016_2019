@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160827_205559.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1472360301",
+    "formatted": "Aug 28, 2016, 4:58:21 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1472356560",
+    "formatted": "Aug 28, 2016, 3:56:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.53915,
+    "longitude": -122.86486670000001,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.53915,
+    "longitude": -122.86486670000001,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOyE4rdKUj1Kc4hbDxAJf1zhgcPK2ptBIZTc1VZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

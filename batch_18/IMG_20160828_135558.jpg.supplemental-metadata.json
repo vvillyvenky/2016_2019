@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160828_135558.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1472417814",
+    "formatted": "Aug 28, 2016, 8:56:54 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1472417759",
+    "formatted": "Aug 28, 2016, 8:55:59 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321694,
+    "longitude": -122.8745722,
+    "altitude": 17.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321694,
+    "longitude": -122.8745722,
+    "altitude": 17.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNpHNe8TMveQchkd77zo4u-u96u0gMxr9ECjSqr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
