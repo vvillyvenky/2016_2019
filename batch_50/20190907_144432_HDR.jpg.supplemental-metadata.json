@@ -1,0 +1,29 @@
+{
+  "title": "20190907_144432_HDR.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1567996917",
+    "formatted": "Sep 9, 2019, 2:41:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1567847672",
+    "formatted": "Sep 7, 2019, 9:14:32 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNqdDr3qPDOuWS-yk__CGMph0CSjdlkireh5oU0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

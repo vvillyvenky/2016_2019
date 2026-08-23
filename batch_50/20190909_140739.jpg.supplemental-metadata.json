@@ -1,0 +1,29 @@
+{
+  "title": "20190909_140739.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1568037030",
+    "formatted": "Sep 9, 2019, 1:50:30 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1568018259",
+    "formatted": "Sep 9, 2019, 8:37:39 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPMnGkmoDkbWXGiuCLp-2SpT7GGdA9vYvMhQpj2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

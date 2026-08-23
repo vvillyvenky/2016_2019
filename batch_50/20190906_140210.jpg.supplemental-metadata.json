@@ -1,0 +1,29 @@
+{
+  "title": "20190906_140210.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1567996901",
+    "formatted": "Sep 9, 2019, 2:41:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1567758730",
+    "formatted": "Sep 6, 2019, 8:32:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN4KzhQSXLSILeAqtxw5EA9arfNOkZ_OPOalMPx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20190907_144434_HDR.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1567996917",
+    "formatted": "Sep 9, 2019, 2:41:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1567847674",
+    "formatted": "Sep 7, 2019, 9:14:34 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOpf9kDYV8lMxXvKaIagK_U6uzGJjYsGVgPkxah",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

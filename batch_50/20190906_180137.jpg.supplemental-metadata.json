@@ -1,0 +1,29 @@
+{
+  "title": "20190906_180137.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1567996913",
+    "formatted": "Sep 9, 2019, 2:41:53 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1567773096",
+    "formatted": "Sep 6, 2019, 12:31:36 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNPHe1BGdVwqSi4LBKK6C6_ZD-bJkO7EWd-YZCq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
