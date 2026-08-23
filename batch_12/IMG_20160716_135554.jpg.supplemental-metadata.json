@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160716_135554.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1468727062",
+    "formatted": "Jul 17, 2016, 3:44:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468702556",
+    "formatted": "Jul 16, 2016, 8:55:56 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.6415972,
+    "longitude": -121.9437722,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.6415972,
+    "longitude": -121.9437722,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM9HVGkm9lxlsISh-y_CP3R8LVjSX1SMNCXJzqB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

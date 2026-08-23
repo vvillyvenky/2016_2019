@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160715_194027.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1468689309",
+    "formatted": "Jul 16, 2016, 5:15:09 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468636828",
+    "formatted": "Jul 16, 2016, 2:40:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.8840944,
+    "longitude": -123.96579999999999,
+    "altitude": -16.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.8840944,
+    "longitude": -123.96579999999999,
+    "altitude": -16.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPYxDhAorIfTCW4NkL8AfotAUkDQvfbu9jzs2No",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

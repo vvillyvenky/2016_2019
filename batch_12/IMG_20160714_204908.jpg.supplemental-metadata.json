@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160714_204908.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1468556755",
+    "formatted": "Jul 15, 2016, 4:25:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468554549",
+    "formatted": "Jul 15, 2016, 3:49:09 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.499366699999996,
+    "longitude": -122.6840778,
+    "altitude": 157.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.499366699999996,
+    "longitude": -122.6840778,
+    "altitude": 157.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMlPPTii5YeS7zvw_QUqY9ITUb-z-lr4rbyhDT4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
