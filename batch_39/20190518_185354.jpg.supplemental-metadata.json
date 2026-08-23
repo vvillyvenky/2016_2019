@@ -1,0 +1,29 @@
+{
+  "title": "20190518_185354.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1558341547",
+    "formatted": "May 20, 2019, 8:39:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558230834",
+    "formatted": "May 19, 2019, 1:53:54 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN4hhS3sTdxS4IXuNJ_8CNth0L9uXMaiOXfJwV5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
