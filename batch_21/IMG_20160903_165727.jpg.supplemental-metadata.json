@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160903_165727.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1472952830",
+    "formatted": "Sep 4, 2016, 1:33:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1472947048",
+    "formatted": "Sep 3, 2016, 11:57:28 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.2791722,
+    "longitude": -122.70584170000001,
+    "altitude": 34.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.2791722,
+    "longitude": -122.70584170000001,
+    "altitude": 34.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOjskO4_9WlYDltVg8xwUpuH0BDm6HCXOBFX0WS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
