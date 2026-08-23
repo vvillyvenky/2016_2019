@@ -1,0 +1,29 @@
+{
+  "title": "20190104_221412.jpg",
+  "description": "",
+  "imageViews": "35",
+  "creationTime": {
+    "timestamp": "1548674938",
+    "formatted": "Jan 28, 2019, 11:28:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1546620252",
+    "formatted": "Jan 4, 2019, 4:44:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMm1q3SFp8nhIE3p4YznOVGo5vMf6bwlatX3RyB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

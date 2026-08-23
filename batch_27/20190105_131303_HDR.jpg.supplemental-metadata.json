@@ -1,0 +1,29 @@
+{
+  "title": "20190105_131303_HDR.jpg",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1548674942",
+    "formatted": "Jan 28, 2019, 11:29:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1546674183",
+    "formatted": "Jan 5, 2019, 7:43:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPNE_rdCPMT7VYXOB2GckbZAKPLeiXPwIRuuOyM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
