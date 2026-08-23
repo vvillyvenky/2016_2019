@@ -1,0 +1,29 @@
+{
+  "title": "20191002_095632.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1571392332",
+    "formatted": "Oct 18, 2019, 9:52:12 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1569990392",
+    "formatted": "Oct 2, 2019, 4:26:32 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNSMRe3Q8jnDD5nu4wDSnNZzc6k4JmutyzxAst0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

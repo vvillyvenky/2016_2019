@@ -1,0 +1,29 @@
+{
+  "title": "20190926_194516.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1569578485",
+    "formatted": "Sep 27, 2019, 10:01:25 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1569507316",
+    "formatted": "Sep 26, 2019, 2:15:16 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNANR8Uxgs5S7HcOhHMbTEHSsZXJgEglFAO2fHA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

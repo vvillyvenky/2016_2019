@@ -1,0 +1,29 @@
+{
+  "title": "20190912_200704.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1568367447",
+    "formatted": "Sep 13, 2019, 9:37:27 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1568299024",
+    "formatted": "Sep 12, 2019, 2:37:04 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPlU_3aRPUKHJhHcxo7oaKgqqib_8v5ADc8-hzX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

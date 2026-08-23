@@ -1,0 +1,29 @@
+{
+  "title": "20191007_151153.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1571392344",
+    "formatted": "Oct 18, 2019, 9:52:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1570441313",
+    "formatted": "Oct 7, 2019, 9:41:53 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMRD01qQx7sCdL7h9UvLFg_kZ6CR3ZEAK01kKg0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

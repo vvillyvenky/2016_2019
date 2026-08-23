@@ -1,0 +1,29 @@
+{
+  "title": "20191015_154444.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1571392357",
+    "formatted": "Oct 18, 2019, 9:52:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1571134484",
+    "formatted": "Oct 15, 2019, 10:14:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOJ2TXIkvNN0xsVyE9T0EnznfLWPwDKTXo119kZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

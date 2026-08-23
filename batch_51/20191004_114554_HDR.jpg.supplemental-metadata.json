@@ -1,0 +1,29 @@
+{
+  "title": "20191004_114554_HDR.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1571392340",
+    "formatted": "Oct 18, 2019, 9:52:20 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1570169754",
+    "formatted": "Oct 4, 2019, 6:15:54 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPcRSeeuTS1MvePW2SPQ_yJMuFkoduFgHEg5AeF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
