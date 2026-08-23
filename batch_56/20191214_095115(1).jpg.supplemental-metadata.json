@@ -1,0 +1,29 @@
+{
+  "title": "20191214_095115(1).jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1576824930",
+    "formatted": "Dec 20, 2019, 6:55:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576297275",
+    "formatted": "Dec 14, 2019, 4:21:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO4AO4f8YbGL7nGi-27W9LRGCVJnLnDiFn0CLAF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
