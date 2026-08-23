@@ -1,0 +1,29 @@
+{
+  "title": "20190531_182912.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1560166844",
+    "formatted": "Jun 10, 2019, 11:40:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1559307552",
+    "formatted": "May 31, 2019, 12:59:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP0xXOope66Lv6s-WgkNr2f5-vzkjgQCmNfGgK1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

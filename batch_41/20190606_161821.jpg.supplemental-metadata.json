@@ -1,0 +1,29 @@
+{
+  "title": "20190606_161821.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1560166855",
+    "formatted": "Jun 10, 2019, 11:40:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1559818101",
+    "formatted": "Jun 6, 2019, 10:48:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPrU5pLmZKkLqGu9j9CwRH9KKJMR50H-IAx0jm-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

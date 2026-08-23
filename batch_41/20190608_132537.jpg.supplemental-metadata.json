@@ -1,0 +1,29 @@
+{
+  "title": "20190608_132537.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1560166875",
+    "formatted": "Jun 10, 2019, 11:41:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1559980537",
+    "formatted": "Jun 8, 2019, 7:55:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNttv6cNdVQid-mwnSffxsyOnLPx6fy7_e4Rn1_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

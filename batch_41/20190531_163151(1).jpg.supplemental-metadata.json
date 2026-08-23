@@ -1,0 +1,29 @@
+{
+  "title": "20190531_163151(1).jpg",
+  "description": "",
+  "imageViews": "45",
+  "creationTime": {
+    "timestamp": "1559532898",
+    "formatted": "Jun 3, 2019, 3:34:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1559300511",
+    "formatted": "May 31, 2019, 11:01:51 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOKFrxEK4KDy01W5jnbnfWwi_YQu9A5lxPIJVo3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
