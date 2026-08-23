@@ -1,0 +1,29 @@
+{
+  "title": "20191214_220644.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1576825113",
+    "formatted": "Dec 20, 2019, 6:58:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576341404",
+    "formatted": "Dec 14, 2019, 4:36:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMzQEVJT4Ts2DJxvn-3iiTWQx_7dXbKecq4fj3H",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

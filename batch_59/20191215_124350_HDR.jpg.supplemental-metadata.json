@@ -1,0 +1,29 @@
+{
+  "title": "20191215_124350_HDR.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1576825174",
+    "formatted": "Dec 20, 2019, 6:59:34 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576394030",
+    "formatted": "Dec 15, 2019, 7:13:50 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMvx1sGwqjjmKDXto9tbE4hQPJKKasX_ioeFNzx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
