@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160705_223705.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1467783434",
+    "formatted": "Jul 6, 2016, 5:37:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1467783427",
+    "formatted": "Jul 6, 2016, 5:37:07 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321833,
+    "longitude": -122.8747028,
+    "altitude": 141.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321833,
+    "longitude": -122.8747028,
+    "altitude": 141.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNXWH1-c9fEHSpKpbXFs45NHlHpxHN8gR_Zd9zk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

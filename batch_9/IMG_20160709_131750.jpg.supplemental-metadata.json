@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160709_131750.jpg",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1468097378",
+    "formatted": "Jul 9, 2016, 8:49:38 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468095473",
+    "formatted": "Jul 9, 2016, 8:17:53 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.523933299999996,
+    "longitude": -122.8168278,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.523933299999996,
+    "longitude": -122.8168278,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMdzim2ZOo-WL9e3Q2LenjLgb2CLFgkWTUwr0CV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
