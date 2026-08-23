@@ -1,0 +1,29 @@
+{
+  "title": "20190518_183505_HDR.jpg",
+  "description": "",
+  "imageViews": "35",
+  "creationTime": {
+    "timestamp": "1558293169",
+    "formatted": "May 19, 2019, 7:12:49 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558229705",
+    "formatted": "May 19, 2019, 1:35:05 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMHYf7F1l5BCVYj0tHj1yFlMbo-BNmRbtc0hUoI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
