@@ -1,0 +1,29 @@
+{
+  "title": "20191116_120330.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1574744870",
+    "formatted": "Nov 26, 2019, 5:07:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573886010",
+    "formatted": "Nov 16, 2019, 6:33:30 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMCRxqFZNRJ5vRw8YU6h3KzCDTxxxrDEgPP-DoB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

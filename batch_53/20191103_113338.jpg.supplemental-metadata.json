@@ -1,0 +1,29 @@
+{
+  "title": "20191103_113338.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1572849059",
+    "formatted": "Nov 4, 2019, 6:30:59 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572761018",
+    "formatted": "Nov 3, 2019, 6:03:38 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPXKDUkeSYEQZFHd41JJpKZJ7WGie43zCx4bwnc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

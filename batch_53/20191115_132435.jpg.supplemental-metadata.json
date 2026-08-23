@@ -1,0 +1,29 @@
+{
+  "title": "20191115_132435.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1574744857",
+    "formatted": "Nov 26, 2019, 5:07:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573804475",
+    "formatted": "Nov 15, 2019, 7:54:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNpseX_h2OazOdghB7dcDv-hBTdlFhWHcPTa3V-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
