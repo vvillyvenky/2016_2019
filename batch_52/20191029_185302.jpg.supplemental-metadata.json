@@ -1,0 +1,29 @@
+{
+  "title": "20191029_185302.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1572457694",
+    "formatted": "Oct 30, 2019, 5:48:14 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572355382",
+    "formatted": "Oct 29, 2019, 1:23:02 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOjPOMZV8jBMI-sM2NQFnHZhvywtT--SMro4zjP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

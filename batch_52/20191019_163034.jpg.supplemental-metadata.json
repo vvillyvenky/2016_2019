@@ -1,0 +1,29 @@
+{
+  "title": "20191019_163034.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1571727877",
+    "formatted": "Oct 22, 2019, 7:04:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1571482834",
+    "formatted": "Oct 19, 2019, 11:00:34 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO90qxp1VzcqSy6SnYt60GIM-TXbuGkf-B7FwjE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

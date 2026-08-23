@@ -1,0 +1,29 @@
+{
+  "title": "20191024_003512.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1571897529",
+    "formatted": "Oct 24, 2019, 6:12:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1571857512",
+    "formatted": "Oct 23, 2019, 7:05:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNzVZj9qYS1nby6Yz24Zlw6Q0ayHbGia7LQ-5ub",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

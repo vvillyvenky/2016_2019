@@ -1,0 +1,29 @@
+{
+  "title": "20191026_135745.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1572436914",
+    "formatted": "Oct 30, 2019, 12:01:54 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572078465",
+    "formatted": "Oct 26, 2019, 8:27:45 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPqPFJkHlD7Gw9brA6dHOjRkN8dKUpm2HbE_ACq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20191101_114115.jpg",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1572849042",
+    "formatted": "Nov 4, 2019, 6:30:42 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572588675",
+    "formatted": "Nov 1, 2019, 6:11:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOL7Qrg7JnkmdH90E6xkBNFOujaaMEId0aaVSgo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

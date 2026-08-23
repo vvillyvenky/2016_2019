@@ -1,0 +1,29 @@
+{
+  "title": "20191026_132426_HDR.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1572436914",
+    "formatted": "Oct 30, 2019, 12:01:54 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572076466",
+    "formatted": "Oct 26, 2019, 7:54:26 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNnIHEM9nnp-TIsIrn1btgF2pbGeYL0-sqAly0x",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
