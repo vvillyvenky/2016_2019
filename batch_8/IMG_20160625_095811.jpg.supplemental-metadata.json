@@ -1,0 +1,32 @@
+{
+  "title": "IMG_20160625_095811.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1466873948",
+    "formatted": "Jun 25, 2016, 4:59:08 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1466873892",
+    "formatted": "Jun 25, 2016, 4:58:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5322944,
+    "longitude": -122.87463059999999,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5322944,
+    "longitude": -122.87463059999999,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMmWZLaoTXPRJ3laO496aFv854ztLNtIUa8xdVP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+    }
+  }
+}

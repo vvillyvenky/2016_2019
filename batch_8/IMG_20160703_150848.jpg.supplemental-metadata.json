@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160703_150848.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1467596876",
+    "formatted": "Jul 4, 2016, 1:47:56 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1467583729",
+    "formatted": "Jul 3, 2016, 10:08:49 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.9676389,
+    "longitude": -123.6852083,
+    "altitude": 941.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.9676389,
+    "longitude": -123.6852083,
+    "altitude": 941.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOcGeZDIKWEcoCD3G6WoQU3Mq1nAH8Mce0C60gc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

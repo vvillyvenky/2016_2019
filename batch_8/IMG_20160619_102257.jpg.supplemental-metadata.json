@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160619_102257.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1466359706",
+    "formatted": "Jun 19, 2016, 6:08:26 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1466356978",
+    "formatted": "Jun 19, 2016, 5:22:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.499277799999994,
+    "longitude": -122.84660000000001,
+    "altitude": 32.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.499277799999994,
+    "longitude": -122.84660000000001,
+    "altitude": 32.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMxPVN0WdR3pW-vLd66zABVJnqXRuvZG9VneXwh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

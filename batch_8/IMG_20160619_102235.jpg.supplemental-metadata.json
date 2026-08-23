@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160619_102235.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1466359691",
+    "formatted": "Jun 19, 2016, 6:08:11 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1466356957",
+    "formatted": "Jun 19, 2016, 5:22:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.4993056,
+    "longitude": -122.84684999999998,
+    "altitude": 43.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.4993056,
+    "longitude": -122.84684999999998,
+    "altitude": 43.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNyaJzBXv-4dcqeepTEDmFcxxYkMzDVwtu03WY1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

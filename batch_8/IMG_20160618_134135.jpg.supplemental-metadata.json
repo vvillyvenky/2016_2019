@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160618_134135.jpg",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1466282503",
+    "formatted": "Jun 18, 2016, 8:41:43 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1466282497",
+    "formatted": "Jun 18, 2016, 8:41:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321389,
+    "longitude": -122.87468059999999,
+    "altitude": 36.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321389,
+    "longitude": -122.87468059999999,
+    "altitude": 36.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOuCpY0TFtx7XHJtZG7xuYU6vMXkHGjdhvjd8xo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
