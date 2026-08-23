@@ -1,0 +1,29 @@
+{
+  "title": "20190721_142044.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1563790991",
+    "formatted": "Jul 22, 2019, 10:23:11 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1563699044",
+    "formatted": "Jul 21, 2019, 8:50:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMEF5wfi2CNl9il1dxUfroDxrc5njgOrVhWvegl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

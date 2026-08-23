@@ -1,0 +1,29 @@
+{
+  "title": "20190716_205955.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1563389003",
+    "formatted": "Jul 17, 2019, 6:43:23 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1563290995",
+    "formatted": "Jul 16, 2019, 3:29:55 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNCMet5pf_cOI6K9Jw-31_GeryWy8t04ilgI-6L",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20190714_121810.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1563176589",
+    "formatted": "Jul 15, 2019, 7:43:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1563086890",
+    "formatted": "Jul 14, 2019, 6:48:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMLnPbZDhfVJfQ-rTkQfyIN3iWalAZG9pFwXT27",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
