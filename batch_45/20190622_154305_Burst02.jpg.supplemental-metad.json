@@ -1,0 +1,29 @@
+{
+  "title": "20190622_154305_Burst02.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1562151374",
+    "formatted": "Jul 3, 2019, 10:56:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561198385",
+    "formatted": "Jun 22, 2019, 10:13:05 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOsYGKs3W4-QSxsFYYsf-2JAEBAg1NyzAGZgNxg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

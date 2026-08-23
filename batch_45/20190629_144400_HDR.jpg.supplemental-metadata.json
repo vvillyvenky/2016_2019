@@ -1,0 +1,29 @@
+{
+  "title": "20190629_144400_HDR.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1562151302",
+    "formatted": "Jul 3, 2019, 10:55:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561799640",
+    "formatted": "Jun 29, 2019, 9:14:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM7KaJwzKA-kd5WqvhXWuReaz2ff9N3UFYdzfgW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
