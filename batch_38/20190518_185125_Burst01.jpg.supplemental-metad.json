@@ -1,0 +1,29 @@
+{
+  "title": "20190518_185125_Burst01.jpg",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1558321316",
+    "formatted": "May 20, 2019, 3:01:56 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558230685",
+    "formatted": "May 19, 2019, 1:51:25 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP-_rC7L_u2EPP2PsSUeVTBmj84sNY0qtTHprNK",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

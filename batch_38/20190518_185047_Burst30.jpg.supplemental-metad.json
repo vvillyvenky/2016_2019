@@ -1,0 +1,29 @@
+{
+  "title": "20190518_185047_Burst30.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1558319801",
+    "formatted": "May 20, 2019, 2:36:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558230649",
+    "formatted": "May 19, 2019, 1:50:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPWr1A-DLcZzLbegbCGCA5PVnBcw5RWeZ7YKnzW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
