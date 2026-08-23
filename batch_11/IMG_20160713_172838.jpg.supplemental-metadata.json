@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160713_172838.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1468471284",
+    "formatted": "Jul 14, 2016, 4:41:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468456119",
+    "formatted": "Jul 14, 2016, 12:28:39 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5194111,
+    "longitude": -122.70575829999999,
+    "altitude": 109.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5194111,
+    "longitude": -122.70575829999999,
+    "altitude": 109.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOYBTXvGNIlqBw20n1OyKdJh-pQgsHNYYni-5N-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

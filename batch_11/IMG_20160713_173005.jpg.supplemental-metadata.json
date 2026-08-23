@@ -1,0 +1,32 @@
+{
+  "title": "IMG_20160713_173005.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1468471340",
+    "formatted": "Jul 14, 2016, 4:42:20 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468456206",
+    "formatted": "Jul 14, 2016, 12:30:06 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5194167,
+    "longitude": -122.7055944,
+    "altitude": 105.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5194167,
+    "longitude": -122.7055944,
+    "altitude": 105.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOQhlBnSGndRix8o2Tx1GDamC_-FZy-iFiwIB8n",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+    }
+  }
+}

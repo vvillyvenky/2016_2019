@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160713_165921.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1468471184",
+    "formatted": "Jul 14, 2016, 4:39:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468454362",
+    "formatted": "Jul 13, 2016, 11:59:22 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5185556,
+    "longitude": -122.70834169999999,
+    "altitude": 215.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5185556,
+    "longitude": -122.70834169999999,
+    "altitude": 215.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMUJCH0MSP5OohKIvq8AT2g5nW8J-WMCSt6e9CZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
