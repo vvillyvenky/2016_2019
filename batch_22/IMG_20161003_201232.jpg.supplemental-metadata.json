@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20161003_201232.jpg",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1475550831",
+    "formatted": "Oct 4, 2016, 3:13:51 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1475550753",
+    "formatted": "Oct 4, 2016, 3:12:33 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5320306,
+    "longitude": -122.87468890000001,
+    "altitude": 43.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5320306,
+    "longitude": -122.87468890000001,
+    "altitude": 43.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN5EM1TPLwotkddDm1cFktOpbW9UDUhxzHk4CKv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

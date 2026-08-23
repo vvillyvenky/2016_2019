@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160910_141708.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1473557429",
+    "formatted": "Sep 11, 2016, 1:30:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1473542229",
+    "formatted": "Sep 10, 2016, 9:17:09 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.6394361,
+    "longitude": -121.92199169999999,
+    "altitude": -19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.6394361,
+    "longitude": -121.92199169999999,
+    "altitude": -19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOypb6zNr5jelRWKb8JeI4WcrOSBmzO16poLWFD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

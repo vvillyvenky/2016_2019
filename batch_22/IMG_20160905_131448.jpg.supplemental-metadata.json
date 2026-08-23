@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160905_131448.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1473106550",
+    "formatted": "Sep 5, 2016, 8:15:50 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1473106489",
+    "formatted": "Sep 5, 2016, 8:14:49 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5320833,
+    "longitude": -122.87481670000001,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5320833,
+    "longitude": -122.87481670000001,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNgEbtwFH_Ep1uydOIP3lRqT7W9Y5XETS4vBroX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

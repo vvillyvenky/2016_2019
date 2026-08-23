@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20161022_155347.jpg",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1477189796",
+    "formatted": "Oct 23, 2016, 2:29:56 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1477176828",
+    "formatted": "Oct 22, 2016, 10:53:48 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.514116699999995,
+    "longitude": -122.71526939999998,
+    "altitude": 234.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.514116699999995,
+    "longitude": -122.71526939999998,
+    "altitude": 234.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMsFoPgxvAn0ex2quxznq_TVO_OT163WrHCfIWi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
