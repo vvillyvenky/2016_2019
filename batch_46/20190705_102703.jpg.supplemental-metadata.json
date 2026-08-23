@@ -1,0 +1,29 @@
+{
+  "title": "20190705_102703.jpg",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1562436713",
+    "formatted": "Jul 6, 2019, 6:11:53 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1562302623",
+    "formatted": "Jul 5, 2019, 4:57:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPooDnrQk6aDaCgJM5ApC63HyWmaMHCHApuMMFC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

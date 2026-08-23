@@ -1,0 +1,29 @@
+{
+  "title": "20190708_175408.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1563176562",
+    "formatted": "Jul 15, 2019, 7:42:42 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1562588648",
+    "formatted": "Jul 8, 2019, 12:24:08 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN7JYBsDRwOWCbwTWEG86BM3T5IzEXejzZZTv_X",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

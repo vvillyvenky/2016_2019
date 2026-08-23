@@ -1,0 +1,29 @@
+{
+  "title": "20190703_122753.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1562151447",
+    "formatted": "Jul 3, 2019, 10:57:27 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1562137073",
+    "formatted": "Jul 3, 2019, 6:57:53 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOHDluXMjuQiyQulVp9QXHFGUwnC74I0e3TSsiN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20190630_103357_HDR.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1562151434",
+    "formatted": "Jul 3, 2019, 10:57:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561871037",
+    "formatted": "Jun 30, 2019, 5:03:57 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM4xwNx5QC3U3QzIu1IyY_obfQFA2xfLYDIRhHi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

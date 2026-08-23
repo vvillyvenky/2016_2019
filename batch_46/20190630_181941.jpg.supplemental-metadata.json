@@ -1,0 +1,29 @@
+{
+  "title": "20190630_181941.jpg",
+  "description": "",
+  "imageViews": "44",
+  "creationTime": {
+    "timestamp": "1562151427",
+    "formatted": "Jul 3, 2019, 10:57:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561898981",
+    "formatted": "Jun 30, 2019, 12:49:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPVKJM6EYZ0svWJyPIlR-PYQcwVeRJP_Tn9Y4-N",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
