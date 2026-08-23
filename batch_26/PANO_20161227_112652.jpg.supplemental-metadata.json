@@ -1,0 +1,36 @@
+{
+  "title": "PANO_20161227_112652.jpg",
+  "description": "",
+  "imageViews": "35",
+  "creationTime": {
+    "timestamp": "1483056841",
+    "formatted": "Dec 30, 2016, 12:14:01 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1482866869",
+    "formatted": "Dec 27, 2016, 7:27:49 PM UTC"
+  },
+  "geoData": {
+    "latitude": 36.231005599999996,
+    "longitude": -116.7764806,
+    "altitude": -120.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.231005599999996,
+    "longitude": -116.7764806,
+    "altitude": -120.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPxY52x1tptwPPTiHpJ1HbIVkiJRmKXH4DRWhOd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

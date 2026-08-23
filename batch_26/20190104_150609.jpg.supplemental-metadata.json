@@ -1,0 +1,29 @@
+{
+  "title": "20190104_150609.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1548674925",
+    "formatted": "Jan 28, 2019, 11:28:45 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1546594569",
+    "formatted": "Jan 4, 2019, 9:36:09 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMeLnRnDQaYBPZD3URAK9NRK6bHo7k7El2p8Q0o",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
