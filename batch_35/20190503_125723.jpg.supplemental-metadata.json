@@ -1,0 +1,29 @@
+{
+  "title": "20190503_125723.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1557116771",
+    "formatted": "May 6, 2019, 4:26:11 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556868443",
+    "formatted": "May 3, 2019, 7:27:23 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOURMSP8RhgWZlw92WawA06q1TCaurv7usYxfX2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

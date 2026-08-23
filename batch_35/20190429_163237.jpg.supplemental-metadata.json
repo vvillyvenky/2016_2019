@@ -1,0 +1,29 @@
+{
+  "title": "20190429_163237.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1557116759",
+    "formatted": "May 6, 2019, 4:25:59 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556535757",
+    "formatted": "Apr 29, 2019, 11:02:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOb7KdGMVKx8pipdRAD8USW376A_ZxUCbNCdrA1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

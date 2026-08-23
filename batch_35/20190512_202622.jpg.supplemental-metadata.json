@@ -1,0 +1,29 @@
+{
+  "title": "20190512_202622.jpg",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1557715343",
+    "formatted": "May 13, 2019, 2:42:23 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1557717982",
+    "formatted": "May 13, 2019, 3:26:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNsgfakpwLt63ythNPKhvniM_K0xRMP4AugZ3Sn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
