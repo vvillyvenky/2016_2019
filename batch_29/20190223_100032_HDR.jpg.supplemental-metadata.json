@@ -1,0 +1,29 @@
+{
+  "title": "20190223_100032_HDR.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1551074495",
+    "formatted": "Feb 25, 2019, 6:01:35 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1550896232",
+    "formatted": "Feb 23, 2019, 4:30:32 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNrA_ZMP7idN1jB6q0tK05ZSjzAhqP6ZvavBS_S",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

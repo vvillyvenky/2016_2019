@@ -1,0 +1,29 @@
+{
+  "title": "20190225_093321.jpg",
+  "description": "",
+  "imageViews": "52",
+  "creationTime": {
+    "timestamp": "1551074518",
+    "formatted": "Feb 25, 2019, 6:01:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1551067401",
+    "formatted": "Feb 25, 2019, 4:03:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPIA0vrm1ao1YGsX9wLw5_tfwGsYLsjo1_vchcr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

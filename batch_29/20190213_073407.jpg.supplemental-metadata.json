@@ -1,0 +1,29 @@
+{
+  "title": "20190213_073407.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1551074465",
+    "formatted": "Feb 25, 2019, 6:01:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1550023447",
+    "formatted": "Feb 13, 2019, 2:04:07 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNmRUj4aZwTvcrhpPWizVmVEqhIPuGNO9m4nVeg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

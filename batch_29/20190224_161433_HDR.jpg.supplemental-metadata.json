@@ -1,0 +1,29 @@
+{
+  "title": "20190224_161433_HDR.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1551074511",
+    "formatted": "Feb 25, 2019, 6:01:51 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1551005073",
+    "formatted": "Feb 24, 2019, 10:44:33 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNk38Vnd65bUoaGc6aoNQ4m_9ydCpyQ9vhHxsYG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

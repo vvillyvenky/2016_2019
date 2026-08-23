@@ -1,0 +1,29 @@
+{
+  "title": "20190224_161452.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1551074515",
+    "formatted": "Feb 25, 2019, 6:01:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1551005092",
+    "formatted": "Feb 24, 2019, 10:44:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPpAregTYUz8b-joL9mReMxrHBYpJSV6b9cm5Wd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

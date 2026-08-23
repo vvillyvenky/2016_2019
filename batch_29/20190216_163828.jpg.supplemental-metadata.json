@@ -1,0 +1,29 @@
+{
+  "title": "20190216_163828.jpg",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1551074473",
+    "formatted": "Feb 25, 2019, 6:01:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1550315308",
+    "formatted": "Feb 16, 2019, 11:08:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPuQGtx7zupzDZJrtqWYXuzIuA6bSs3UC8i8_h-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
