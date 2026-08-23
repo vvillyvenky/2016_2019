@@ -1,0 +1,29 @@
+{
+  "title": "20190424_091211.jpg",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1556517897",
+    "formatted": "Apr 29, 2019, 6:04:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556077331",
+    "formatted": "Apr 24, 2019, 3:42:11 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPa4qu9zrnZgqEiBtUue7pV9WoefkFFnVe4cKr9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

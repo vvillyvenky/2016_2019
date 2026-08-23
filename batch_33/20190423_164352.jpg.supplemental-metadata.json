@@ -1,0 +1,29 @@
+{
+  "title": "20190423_164352.jpg",
+  "description": "",
+  "imageViews": "48",
+  "creationTime": {
+    "timestamp": "1556517883",
+    "formatted": "Apr 29, 2019, 6:04:43 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556018032",
+    "formatted": "Apr 23, 2019, 11:13:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN63ilUxrSvEt4umIR_XSwJOCGIl9fmfcg5GVto",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

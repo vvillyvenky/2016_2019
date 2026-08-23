@@ -1,0 +1,29 @@
+{
+  "title": "20190423_164117_HDR.jpg",
+  "description": "",
+  "imageViews": "34",
+  "creationTime": {
+    "timestamp": "1556517875",
+    "formatted": "Apr 29, 2019, 6:04:35 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556017877",
+    "formatted": "Apr 23, 2019, 11:11:17 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP_f__xpsUMWqyrg40aKobe8wcFyrQCFFqRzv9v",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
