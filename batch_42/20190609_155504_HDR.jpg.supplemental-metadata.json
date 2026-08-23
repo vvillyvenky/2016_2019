@@ -1,0 +1,29 @@
+{
+  "title": "20190609_155504_HDR.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1560166096",
+    "formatted": "Jun 10, 2019, 11:28:16 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1560075904",
+    "formatted": "Jun 9, 2019, 10:25:04 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPrh1khYq5fYE4kiae5a5wJ3YkUkSrYOvF6qjqp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
