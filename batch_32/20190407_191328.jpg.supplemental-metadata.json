@@ -1,0 +1,29 @@
+{
+  "title": "20190407_191328.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1554734992",
+    "formatted": "Apr 8, 2019, 2:49:52 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1554644608",
+    "formatted": "Apr 7, 2019, 1:43:28 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPrkhc2aNluvgmJXEKYSzZalsPaGobIYEo7R9cU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

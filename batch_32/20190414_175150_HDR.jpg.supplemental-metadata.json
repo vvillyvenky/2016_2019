@@ -1,0 +1,29 @@
+{
+  "title": "20190414_175150_HDR.jpg",
+  "description": "",
+  "imageViews": "34",
+  "creationTime": {
+    "timestamp": "1555248127",
+    "formatted": "Apr 14, 2019, 1:22:07 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1555244510",
+    "formatted": "Apr 14, 2019, 12:21:50 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPw_x9sy43sOGO2jKrgwmiwQmpeKpG7P4Z4NOJp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

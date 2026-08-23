@@ -1,0 +1,29 @@
+{
+  "title": "20190407_191326.jpg",
+  "description": "",
+  "imageViews": "30",
+  "creationTime": {
+    "timestamp": "1554734991",
+    "formatted": "Apr 8, 2019, 2:49:51 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1554644606",
+    "formatted": "Apr 7, 2019, 1:43:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOWbeZ-3nSfPWvUnL_FasqAb4WO4C4bVPXuOFRU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

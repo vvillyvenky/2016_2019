@@ -1,0 +1,26 @@
+{
+  "title": "20190408_111642.jpg",
+  "description": "",
+  "imageViews": "45",
+  "creationTime": {
+    "timestamp": "1554702699",
+    "formatted": "Apr 8, 2019, 5:51:39 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1554702402",
+    "formatted": "Apr 8, 2019, 5:46:42 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNNoF85atHPfdeJWUs1JDxEqC3PojmJxGQIr4cG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20190413_173740.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1555244352",
+    "formatted": "Apr 14, 2019, 12:19:12 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1555157260",
+    "formatted": "Apr 13, 2019, 12:07:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPiKKT7SvVdO8fYhfd7Xxfs6F9wDCdG6k6hDqkf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
