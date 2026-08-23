@@ -1,0 +1,29 @@
+{
+  "title": "20190731_100537.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1566810094",
+    "formatted": "Aug 26, 2019, 9:01:34 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1564547737",
+    "formatted": "Jul 31, 2019, 4:35:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPhYN3uc9oVdHgOwtptqjthhNhgI3W6io4wr6ln",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

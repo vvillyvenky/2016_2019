@@ -1,0 +1,29 @@
+{
+  "title": "20190724_095528.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1563950293",
+    "formatted": "Jul 24, 2019, 6:38:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1563942328",
+    "formatted": "Jul 24, 2019, 4:25:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipONhcgH_XGtQzUgOEI1enSxlJVA6e5qY1FMDfSk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

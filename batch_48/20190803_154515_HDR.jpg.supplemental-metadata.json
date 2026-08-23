@@ -1,0 +1,29 @@
+{
+  "title": "20190803_154515_HDR.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1566810094",
+    "formatted": "Aug 26, 2019, 9:01:34 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1564827315",
+    "formatted": "Aug 3, 2019, 10:15:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNBu5FLvsxTgfx72tX-SQFRxu2sPu0o_jebXbvp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "20190727_175346_HDR.jpg",
+  "description": "",
+  "imageViews": "47",
+  "creationTime": {
+    "timestamp": "1566810082",
+    "formatted": "Aug 26, 2019, 9:01:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1564230226",
+    "formatted": "Jul 27, 2019, 12:23:46 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNfxsREY4EmHFTKCGN6Owy54rqCk80PuxiX9riH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
