@@ -1,0 +1,29 @@
+{
+  "title": "20190518_104108.jpg",
+  "description": "",
+  "imageViews": "34",
+  "creationTime": {
+    "timestamp": "1558292722",
+    "formatted": "May 19, 2019, 7:05:22 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558201272",
+    "formatted": "May 18, 2019, 5:41:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPS9Ks3RY_NAAQmTTwBPEnAoouj8IefY3KrHIIo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

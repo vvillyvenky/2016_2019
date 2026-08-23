@@ -1,0 +1,29 @@
+{
+  "title": "20190518_084911_HDR.jpg",
+  "description": "",
+  "imageViews": "39",
+  "creationTime": {
+    "timestamp": "1558292500",
+    "formatted": "May 19, 2019, 7:01:40 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558194551",
+    "formatted": "May 18, 2019, 3:49:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPGwBoALTBBjFxvO3sdboxDQxfvMKs-pwNdrUB8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
