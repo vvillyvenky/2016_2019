@@ -1,0 +1,29 @@
+{
+  "title": "20190330_190642.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1554104150",
+    "formatted": "Apr 1, 2019, 7:35:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1553953002",
+    "formatted": "Mar 30, 2019, 1:36:42 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP6uuqHpoVl-lA5k3HPw1mjs7neiNpq0sn_xmWo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

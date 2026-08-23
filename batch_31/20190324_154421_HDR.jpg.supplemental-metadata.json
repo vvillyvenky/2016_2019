@@ -1,0 +1,29 @@
+{
+  "title": "20190324_154421_HDR.jpg",
+  "description": "",
+  "imageViews": "56",
+  "creationTime": {
+    "timestamp": "1553489606",
+    "formatted": "Mar 25, 2019, 4:53:26 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1553422461",
+    "formatted": "Mar 24, 2019, 10:14:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMfJaYGnmDMG-ZZ3lQtYkAxg3fFX4K2E0UU5s6m",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

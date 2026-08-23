@@ -1,0 +1,29 @@
+{
+  "title": "20190404_130100.jpg",
+  "description": "",
+  "imageViews": "64",
+  "creationTime": {
+    "timestamp": "1554363081",
+    "formatted": "Apr 4, 2019, 7:31:21 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1554363060",
+    "formatted": "Apr 4, 2019, 7:31:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPcRi9JsZQhrJwqxQ1SLAYIzPxYf5KaAGDuuuKJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

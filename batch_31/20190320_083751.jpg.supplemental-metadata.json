@@ -1,0 +1,29 @@
+{
+  "title": "20190320_083751.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1553154358",
+    "formatted": "Mar 21, 2019, 7:45:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1553051271",
+    "formatted": "Mar 20, 2019, 3:07:51 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPzJeE_w7zSv2vwSCCoItTP-kFWlwPhYpKyRsCY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
