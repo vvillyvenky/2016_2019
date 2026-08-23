@@ -1,0 +1,29 @@
+{
+  "title": "20190530_105011.jpg",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1559202022",
+    "formatted": "May 30, 2019, 7:40:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1559193611",
+    "formatted": "May 30, 2019, 5:20:11 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPnPGZCfk2b9pkhqRLMIs-KDJrOF3zr7iM7W7BT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

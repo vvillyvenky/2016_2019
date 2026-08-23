@@ -1,0 +1,29 @@
+{
+  "title": "20190521_211647.jpg",
+  "description": "",
+  "imageViews": "35",
+  "creationTime": {
+    "timestamp": "1558624711",
+    "formatted": "May 23, 2019, 3:18:31 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1558498607",
+    "formatted": "May 22, 2019, 4:16:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMFiSAW3HCjb0V0VJi14AmFfNrqHnfvDYgGjye2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
