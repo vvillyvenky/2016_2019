@@ -1,0 +1,29 @@
+{
+  "title": "20191214_083005_HDR.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1576824833",
+    "formatted": "Dec 20, 2019, 6:53:53 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576292405",
+    "formatted": "Dec 14, 2019, 3:00:05 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMsa6O8Ysly_qD0PHWk_EkIKHVHIw-qGb0vn1qV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

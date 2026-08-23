@@ -1,0 +1,29 @@
+{
+  "title": "20191208_075653.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1576824824",
+    "formatted": "Dec 20, 2019, 6:53:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1575772013",
+    "formatted": "Dec 8, 2019, 2:26:53 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMwDvTDRcFilaUnwk3ARBudr0zrSnQCRZ-SPezp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

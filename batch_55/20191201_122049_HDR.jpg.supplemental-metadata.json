@@ -1,0 +1,29 @@
+{
+  "title": "20191201_122049_HDR.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1575444779",
+    "formatted": "Dec 4, 2019, 7:32:59 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1575183049",
+    "formatted": "Dec 1, 2019, 6:50:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMmnlO-HfK3Ru54N4e3c5L-w41ruQQ0vEqWNr2f",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

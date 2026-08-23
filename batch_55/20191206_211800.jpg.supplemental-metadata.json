@@ -1,0 +1,29 @@
+{
+  "title": "20191206_211800.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1576824802",
+    "formatted": "Dec 20, 2019, 6:53:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1575647280",
+    "formatted": "Dec 6, 2019, 3:48:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipObdfH3GNKsrbd0oTcbWI-k-LK8XA7NdkM3f_c4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

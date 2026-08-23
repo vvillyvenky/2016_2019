@@ -1,0 +1,29 @@
+{
+  "title": "20191207_180443.jpg",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1576824814",
+    "formatted": "Dec 20, 2019, 6:53:34 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1575722083",
+    "formatted": "Dec 7, 2019, 12:34:43 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOh9B5y-kaYlRZFg9enHWKs5cVoZrzd3sDBUUQN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
