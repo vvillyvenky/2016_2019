@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20161101_141309.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1478034860",
+    "formatted": "Nov 1, 2016, 9:14:20 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1478034791",
+    "formatted": "Nov 1, 2016, 9:13:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321694,
+    "longitude": -122.8747667,
+    "altitude": 54.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321694,
+    "longitude": -122.8747667,
+    "altitude": 54.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNNJyOMFEwx_0G5iUepfYrpSnIIm2LVekd6CQMm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

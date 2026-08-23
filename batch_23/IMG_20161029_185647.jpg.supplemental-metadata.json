@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20161029_185647.jpg",
+  "description": "",
+  "imageViews": "32",
+  "creationTime": {
+    "timestamp": "1477792660",
+    "formatted": "Oct 30, 2016, 1:57:40 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1477792609",
+    "formatted": "Oct 30, 2016, 1:56:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321667,
+    "longitude": -122.87473609999999,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321667,
+    "longitude": -122.87473609999999,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO0Oc977lvDZB8zY0JDPvub4yV4mSttpwItBbqR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

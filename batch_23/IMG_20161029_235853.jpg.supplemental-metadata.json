@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20161029_235853.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1477810765",
+    "formatted": "Oct 30, 2016, 6:59:25 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1477810734",
+    "formatted": "Oct 30, 2016, 6:58:54 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.536352799999996,
+    "longitude": -122.8503917,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.536352799999996,
+    "longitude": -122.8503917,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMgHjAr9RwAVTqeWUHvcw8wJyQ8vIEsByADTQyq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
