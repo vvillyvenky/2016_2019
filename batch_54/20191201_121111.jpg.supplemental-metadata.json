@@ -1,0 +1,29 @@
+{
+  "title": "20191201_121111.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1575444767",
+    "formatted": "Dec 4, 2019, 7:32:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1575182471",
+    "formatted": "Dec 1, 2019, 6:41:11 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPv4Y4eL-DjMGTRF9RuaVzil4Tz-v4zpIVt12Wf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

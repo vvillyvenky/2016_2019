@@ -1,0 +1,29 @@
+{
+  "title": "20191123_184037.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1574744909",
+    "formatted": "Nov 26, 2019, 5:08:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1574514637",
+    "formatted": "Nov 23, 2019, 1:10:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNzt61W4THPC9D4KEK4jn2msm9AoP1ecZExUHrb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

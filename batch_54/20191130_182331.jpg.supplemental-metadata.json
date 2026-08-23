@@ -1,0 +1,29 @@
+{
+  "title": "20191130_182331.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1575444279",
+    "formatted": "Dec 4, 2019, 7:24:39 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1575118411",
+    "formatted": "Nov 30, 2019, 12:53:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNcMGdsj1vDyJnLL3FG6RTd2a3Cy5W6D9W6Po8k",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
