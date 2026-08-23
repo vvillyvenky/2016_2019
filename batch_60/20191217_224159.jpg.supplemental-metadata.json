@@ -1,0 +1,29 @@
+{
+  "title": "20191217_224159.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1615725725",
+    "formatted": "Mar 14, 2021, 12:42:05 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576602719",
+    "formatted": "Dec 17, 2019, 5:11:59 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOpbdEsXn_NBQj3Xhomh7BwQpeTS0NT2JEE5QW5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

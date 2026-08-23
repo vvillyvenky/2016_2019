@@ -1,0 +1,29 @@
+{
+  "title": "20191215_140252(1).jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1576825217",
+    "formatted": "Dec 20, 2019, 7:00:17 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576398772",
+    "formatted": "Dec 15, 2019, 8:32:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNL9YDW9KO_x19pEgaEJx1AcK3-JAFjtfiTFwit",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

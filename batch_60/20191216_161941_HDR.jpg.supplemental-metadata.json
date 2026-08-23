@@ -1,0 +1,29 @@
+{
+  "title": "20191216_161941_HDR.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1576825253",
+    "formatted": "Dec 20, 2019, 7:00:53 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576493381",
+    "formatted": "Dec 16, 2019, 10:49:41 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOVM0IaKKqED26I14oj8Anf3IbTRVomQyLQerND",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

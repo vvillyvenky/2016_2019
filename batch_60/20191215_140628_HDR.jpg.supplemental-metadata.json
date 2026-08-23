@@ -1,0 +1,29 @@
+{
+  "title": "20191215_140628_HDR.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1576825244",
+    "formatted": "Dec 20, 2019, 7:00:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576398988",
+    "formatted": "Dec 15, 2019, 8:36:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO1dl1qTRjkW1swX7r7JfvwrOu5Lf_b5kKjVnzb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
