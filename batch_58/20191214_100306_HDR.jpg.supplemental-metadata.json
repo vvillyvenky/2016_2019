@@ -1,0 +1,29 @@
+{
+  "title": "20191214_100306_HDR.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1576825046",
+    "formatted": "Dec 20, 2019, 6:57:26 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576297986",
+    "formatted": "Dec 14, 2019, 4:33:06 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO0plA1l-HJNrBRRoMkGDWdkyd3jJyxF-e45tU8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
