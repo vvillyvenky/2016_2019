@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160506_195044.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1463627758",
+    "formatted": "May 19, 2016, 3:15:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462589446",
+    "formatted": "May 7, 2016, 2:50:46 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5428667,
+    "longitude": -122.9363694,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5428667,
+    "longitude": -122.9363694,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMTtrrtuVgXOAJoyWbQ55iUxUJRdI2NXruwGYuR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

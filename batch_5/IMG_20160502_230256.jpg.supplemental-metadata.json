@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160502_230256.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1463627624",
+    "formatted": "May 19, 2016, 3:13:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462255377",
+    "formatted": "May 3, 2016, 6:02:57 AM UTC"
+  },
+  "geoData": {
+    "latitude": 36.1118861,
+    "longitude": -115.1755194,
+    "altitude": 624.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.1118861,
+    "longitude": -115.1755194,
+    "altitude": 624.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPg-W_xMD8oSvQNJdgPhh2YCZWG6S7osofljeDf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

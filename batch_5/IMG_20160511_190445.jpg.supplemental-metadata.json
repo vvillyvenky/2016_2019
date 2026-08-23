@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160511_190445.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1463627791",
+    "formatted": "May 19, 2016, 3:16:31 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1463018687",
+    "formatted": "May 12, 2016, 2:04:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.4998778,
+    "longitude": -122.68604169999998,
+    "altitude": 200.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.4998778,
+    "longitude": -122.68604169999998,
+    "altitude": 200.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNErMHwKHwm75C8z22yEXohf1Fdsdfz0RcQuGIO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160511_190428.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1463627775",
+    "formatted": "May 19, 2016, 3:16:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1463018670",
+    "formatted": "May 12, 2016, 2:04:30 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.4998778,
+    "longitude": -122.68604169999998,
+    "altitude": 200.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.4998778,
+    "longitude": -122.68604169999998,
+    "altitude": 200.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNvnzUkQU0jv8yJc6Vwy_IYnSK9IrsMG9ghnUbD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
