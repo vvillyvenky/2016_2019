@@ -1,0 +1,29 @@
+{
+  "title": "20190309_142827_HDR.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1552971073",
+    "formatted": "Mar 19, 2019, 4:51:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1552121907",
+    "formatted": "Mar 9, 2019, 8:58:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMjBpX0_z_W-7X3MuShIaeycQOcNWRscUlKZ2jb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

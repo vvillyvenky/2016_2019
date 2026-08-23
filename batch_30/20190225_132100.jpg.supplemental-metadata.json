@@ -1,0 +1,29 @@
+{
+  "title": "20190225_132100.jpg",
+  "description": "",
+  "imageViews": "35",
+  "creationTime": {
+    "timestamp": "1551093770",
+    "formatted": "Feb 25, 2019, 11:22:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1551081060",
+    "formatted": "Feb 25, 2019, 7:51:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN_wh6VB6VnHfsCzOS6vENg_od_ZjwcH15RLAa0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

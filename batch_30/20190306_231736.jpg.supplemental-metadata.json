@@ -1,0 +1,29 @@
+{
+  "title": "20190306_231736.jpg",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1552971055",
+    "formatted": "Mar 19, 2019, 4:50:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1551894456",
+    "formatted": "Mar 6, 2019, 5:47:36 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMqCjxUYlIBHUwjbm4mqSWa8ZLPvwgXDCUiXmVR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

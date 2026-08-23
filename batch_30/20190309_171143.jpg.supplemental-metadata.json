@@ -1,0 +1,29 @@
+{
+  "title": "20190309_171143.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1552971090",
+    "formatted": "Mar 19, 2019, 4:51:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1552131703",
+    "formatted": "Mar 9, 2019, 11:41:43 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNPTsoStA-6J06N3dca_3coi3aJLT6pLXKYvaLR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

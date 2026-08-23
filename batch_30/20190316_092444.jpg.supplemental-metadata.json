@@ -1,0 +1,29 @@
+{
+  "title": "20190316_092444.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1552971101",
+    "formatted": "Mar 19, 2019, 4:51:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1552708484",
+    "formatted": "Mar 16, 2019, 3:54:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNiy8XsyUGPZIGyDJ5JlzefWpDwWWfSpsY3EQhH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
